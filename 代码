@@ -1,0 +1,2 @@
+#include<stdio>
+#define MaxSize 10  //定义最大长度
